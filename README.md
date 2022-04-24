@@ -1,5 +1,9 @@
 # CSE523-Machine-Learning-2022-bias_variance_dillema
 Heart Disease Prediction using Machine Learning
+<ul>
+    <li>Gantt Chart</li>
+    <img src="Results/Gantt Chart.jpeg"></img>
+<ul>
 
 ## Introduction
 <ul>
@@ -12,8 +16,6 @@ Heart Disease Prediction using Machine Learning
 
 ## Results
 <ul>
-    <li>Gantt Chart</li>
-    <img src="Results/Gantt Chart.jpeg"></img>
     <li>Correlation Matrix</li>
     <img src="Results/Correlation Matrix.png"><img>
     <li>EDA</li>
