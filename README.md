@@ -12,6 +12,8 @@ Heart Disease Prediction using Machine Learning
 
 ## Results
 <ul>
+    <li>Gantt Chart</li>
+    <img src="Results/Gantt Chart.jpeg"></img>
     <li>Correlation Matrix</li>
     <img src="Results/Correlation Matrix.png"><img>
     <li>EDA</li>
