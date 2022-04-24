@@ -11,6 +11,15 @@ Heart Disease Prediction using Machine Learning
 </ul>
 
 ## Results
+<ul>
+    <li>Correlation Matrix</li>
+    <img src="Results/Correlation Matrix.png"><img>
+    <li>At present, the key factor responsible for mortality is Heart Disease.</li>
+    <li>More than ⅓ death occur due to heart disease problem.</li>
+    <li>Smoking habits, unhealthy diet, and physical inactivity are the factor causing heart disease.</li>
+    <li>Machine learning is proven to be an efficient approach to predict the risk of heart disease using the large amount of data collected from the HealthCare Industry.</li>
+</ul>
+
 
 ## Refrences
 <ul>
