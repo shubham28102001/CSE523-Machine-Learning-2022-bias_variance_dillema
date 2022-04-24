@@ -14,10 +14,28 @@ Heart Disease Prediction using Machine Learning
 <ul>
     <li>Correlation Matrix</li>
     <img src="Results/Correlation Matrix.png"><img>
-    <li>At present, the key factor responsible for mortality is Heart Disease.</li>
-    <li>More than ⅓ death occur due to heart disease problem.</li>
-    <li>Smoking habits, unhealthy diet, and physical inactivity are the factor causing heart disease.</li>
-    <li>Machine learning is proven to be an efficient approach to predict the risk of heart disease using the large amount of data collected from the HealthCare Industry.</li>
+    <li>EDA</li>
+    <img src="Results/EDA gender.png"></img>
+    <img src="Results/EDA age.png"></img>
+    <img src="Results/EDA cholesterol.png"></img>
+    <img src="Results/EDA glucose.png"></img>
+    <img src="Results/EDA smoke.png"></img>
+    <img src="Results/EDA alcohol.png"></img>
+    <img src="Results/EDA active.png"></img>
+    <li>Plot of Misclassification vs. K (KNN Algorithm)</li>
+    <img src="Results/Plot of Missclassification vs. k.png"></img>
+    <li>Confusion Matrix of KNN Algorithm</li>
+    <img src="Results/Confusion Matrix for KNN.png"></img>
+    <li>Confusion Matrix of Logistic Regression Algorithm</li>
+    <img src="Results/Confusion Matrix of Logistic Regression.png"></img>
+    <li>Correlation Based Feature Selection (CFS) Algorithm (WEKA Output Window)</li>
+    <img src="Results/WEKA CFS Algorithm Output.png"></img>
+    <li>Confusion Matrix of Bagged Logistic Regression Algorithm</li>
+    <img src="Results/Confusion Matrix for Bagged Logistic Regression.png"></img>
+    <li>Performance Matrix</li>
+    <img src="Results/Performance Matrix.png"></img>
+    <li><a href="https://hdp-biasvariancedillema.herokuapp.com/" target="_blank">Web Application</a></li>
+    <img src="Results/Web Application.jpeg"></img>
 </ul>
 
 
